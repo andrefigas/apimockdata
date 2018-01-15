@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="32dp"
+    android:orientation="vertical"
+    tools:context="wiki.kotlin.mockapi.MainActivity">
+
+    <EditText
+        android:hint="login"
+        android:layout_margin="15dp"
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+
+    <EditText
+        android:inputType="numberPassword"
+        android:layout_margin="15dp"
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+
+    <Button
+        android:text="GO!"
+        android:layout_margin="15dp"
+        android:id="@+id/go"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+
+
+</LinearLayout>
