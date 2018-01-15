@@ -1,6 +1,6 @@
 # Start your project without API 
 
-Do you wanna start a project but you haven't API yet. Keep calm, you can use a offline flavor using local JSON files like a response, so when you have a API ready, you change to online flavor like this sample.
+Do you wanna start a project but you haven't API yet? Keep calm, you can use a offline flavor using local JSON files like a response, so when you have a API ready, you change to online flavor like this sample.
 
 To test my code on your device/emulator, this is a suggest flow:
 
