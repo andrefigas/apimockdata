@@ -8,7 +8,7 @@ Test 1 - Online
 - Choice the online flavor on Android Studio
 - Compile
 - Try login
-You will receive responde from web (mocky.io)
+You will receive response from web (mocky.io)
 
 Test 2 - Offline
 - Choice the offline flavor on Android Studio
